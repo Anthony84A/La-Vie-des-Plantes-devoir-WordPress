@@ -1,0 +1,14 @@
+# Fins de ligne LF pour les fichiers SQL
+*.sql text eol=lf
+
+# Fins de ligne LF pour les fichiers shell
+*.sh text eol=lf
+
+# Fins de ligne LF pour les fichiers texte
+*.txt text eol=lf
+
+# Fins de ligne CRLF pour les fichiers batch (scripts Windows)
+*.bat text eol=crlf
+
+# Fins de ligne LF pour les fichiers PHP
+*.php text eol=lf
